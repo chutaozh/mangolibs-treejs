@@ -1,0 +1,25 @@
+{
+  "name": "@mango-libs/treejs",
+  "version": "1.0.0",
+  "description": "A simple javascript lib.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "keywords": [
+    "mango-libs",
+    "typescript",
+    "javascript",
+    "treejs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chutao-zhang/mango-libs-treejs.git"
+  },
+  "scripts": {
+    "rm": "node scripts/fs.config.js rm",
+    "cp": "node scripts/fs.config.js cp",
+    "tsc": "npm run rm && tsc && npm run cp",
+    "pub": "cd @mango-libs/treejs && npm publish --access public"
+  },
+  "author": "ChuTao Zhang",
+  "license": "MIT"
+}
