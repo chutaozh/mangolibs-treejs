@@ -1,6 +1,6 @@
 {
   "name": "@mango-libs/treejs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple javascript lib for handling tree.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

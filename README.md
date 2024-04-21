@@ -159,7 +159,7 @@ const tree = createTreeInstance(treeData, {
   const result2 = tree
     .insert({ id: 101, name: "insert node after" })
     .after((m) => m.id === 4);
-  // result2: { id: 100, name: 'insert node after' }
+  // result2: { id: 101, name: 'insert node after' }
 
   // the sibling node of the target node: [
   //  { "id": 3, "name": "node1-1-1" },
