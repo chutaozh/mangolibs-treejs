@@ -163,9 +163,9 @@ const tree = createTreeInstance(treeData, {
 
   // 目标节点的兄弟节点: [
   //  { "id": 3, "name": "node1-1-1" },
-  //  { "id": 100, "name": "insert node" },
+  //  { "id": 100, "name": "insert node before" },
   //  { "id": 4,  "name": "node1-1-2" },
-  //  { "id": 101, "name": "insert node" }
+  //  { "id": 101, "name": "insert node after" }
   // ]
   ```
 
