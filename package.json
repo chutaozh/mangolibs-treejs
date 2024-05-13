@@ -1,6 +1,6 @@
 {
-  "name": "@mango-libs/treejs",
-  "version": "1.0.2",
+  "name": "@mangolibs/treejs",
+  "version": "1.0.0",
   "description": "A simple javascript lib for handling tree.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -18,7 +18,7 @@
     "rm": "node scripts/fs.config.js rm",
     "cp": "node scripts/fs.config.js cp",
     "tsc": "npm run rm && tsc && npm run cp",
-    "pub": "cd @mango-libs/treejs && npm publish --access public"
+    "pub": "cd @mangolibs/treejs && npm publish --access public"
   },
   "author": "ChuTao Zhang",
   "license": "MIT"
