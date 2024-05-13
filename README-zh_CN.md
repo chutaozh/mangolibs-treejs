@@ -1,8 +1,8 @@
 <a href="https://github.com/chutao-zhang/mango-libs-treejs/tree/master#readme" target="_blank">Englist</a> | 中文
 
 <p>
-<img alt="npm" src="https://img.shields.io/npm/v/@mango-libs/treejs?logo=npm&color=%234ac41c">
-<img alt="npm" src="https://img.shields.io/npm/dm/@mango-libs/treejs?logo=npm&color=%234ac41c">
+<img alt="npm" src="https://img.shields.io/npm/v/@mangolibs/treejs?logo=npm&color=%234ac41c">
+<img alt="npm" src="https://img.shields.io/npm/dm/@mangolibs/treejs?logo=npm&color=%234ac41c">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/chutao-zhang/mango-libs-treejs">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/chutao-zhang/mango-libs-treejs">
 </p>
@@ -10,7 +10,7 @@
 ### 安装
 
 ```bash
-npm install @mango-libs/treejs
+npm install @mangolibs/treejs
 ```
 
 ### 使用
@@ -45,7 +45,7 @@ const treeData = [
 ```
 
 ```js
-import { createTreeInstance } from "@mango-libs/treejs";
+import { createTreeInstance } from "@mangolibs/treejs";
 
 // 创建实例
 // 返回一个树实例，可以调用实例方法

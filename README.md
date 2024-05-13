@@ -1,8 +1,8 @@
 Englist | <a href="https://github.com/chutao-zhang/mango-libs-treejs/blob/master/README-zh_CN.md" target="_blank">中文</a>
 
 <p>
-<img alt="npm" src="https://img.shields.io/npm/v/@mango-libs/treejs?logo=npm&color=%234ac41c">
-<img alt="npm" src="https://img.shields.io/npm/dm/@mango-libs/treejs?logo=npm&color=%234ac41c">
+<img alt="npm" src="https://img.shields.io/npm/v/@mangolibs/treejs?logo=npm&color=%234ac41c">
+<img alt="npm" src="https://img.shields.io/npm/dm/@mangolibs/treejs?logo=npm&color=%234ac41c">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/chutao-zhang/mango-libs-treejs">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/chutao-zhang/mango-libs-treejs">
 </p>
@@ -10,7 +10,7 @@ Englist | <a href="https://github.com/chutao-zhang/mango-libs-treejs/blob/master
 ### Install
 
 ```bash
-npm install @mango-libs/treejs
+npm install @mangolibs/treejs
 ```
 
 ### Usage
@@ -45,7 +45,7 @@ const treeData = [
 ```
 
 ```js
-import { createTreeInstance } from "@mango-libs/treejs";
+import { createTreeInstance } from "@mangolibs/treejs";
 
 // Create an instance
 // A tree instance is returned, and the instance method can be called
