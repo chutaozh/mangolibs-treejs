@@ -1,10 +1,10 @@
-Englist | <a href="https://github.com/chutao-zhang/mango-libs-treejs/blob/master/README-zh_CN.md" target="_blank">中文</a>
+Englist | <a href="https://github.com/chutao-zhang/mangolibs-treejs/blob/master/README-zh_CN.md" target="_blank">中文</a>
 
 <p>
 <img alt="npm" src="https://img.shields.io/npm/v/@mangolibs/treejs?logo=npm&color=%234ac41c">
 <img alt="npm" src="https://img.shields.io/npm/dm/@mangolibs/treejs?logo=npm&color=%234ac41c">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/chutao-zhang/mango-libs-treejs">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/chutao-zhang/mango-libs-treejs">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/chutao-zhang/mangolibs-treejs">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/chutao-zhang/mangolibs-treejs">
 </p>
 
 ### Install
