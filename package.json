@@ -1,6 +1,6 @@
 {
   "name": "@mangolibs/treejs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple javascript lib for handling tree.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/chutao-zhang/mangolibs-treejs.git"
+    "url": "https://github.com/chutaozh/mangolibs-treejs.git"
   },
   "scripts": {
     "rm": "node scripts/fs.config.js rm",
